@@ -1,8 +1,8 @@
 # Projet POIN
 
-L'objectif de ce projet est de créer une blockchain pour sécurisé des documents de santé.
+L'objectif de ce projet est de créer une blockchain pour sécuriser des documents de santé.
 
-Ce projet est un POC, la parti front-end y est inclus dans le dossier "front" pour plus de praticité et aucun stockage persistent n'est mis en place, tous les blocks sont donc perdu si tous les noeuds sont coupés.
+Ce projet est un POC, la partie front-end y est inclus dans le dossier "front" pour plus de praticité et aucun stockage persistent n'est mis en place, tous les blocks sont donc perdu si tous les noeuds sont coupés.
 
 Pour démarrer le projet :
 
