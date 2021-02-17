@@ -22,7 +22,7 @@ Pour démarrer le projet :
    ```
 4. Démarrer un noeud 
    ``` 
-       flask run -- port 8000
+       flask run --port 8000
    ```
 - Démarrer plusieurs autres noeud en changeant le port
 - Essayer les API via un outil tel que Postman ou bien utiliser le front-end fourni.
